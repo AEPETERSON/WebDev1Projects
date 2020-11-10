@@ -1,0 +1,30 @@
+body{
+	background-color:#003399;
+	background-image:IMG_0613.JPG;
+	background-size: cover;
+	background-attachment:fixed;
+}
+
+.container{
+	margin:auto;
+	width:80%;
+	background-color:#eeeeee;
+	padding:25px;
+	border-radius:5px;
+}
+
+h2{
+	text-align: center;
+}
+
+label{
+	display:block;
+	padding-bottom:5px;
+	
+}
+input{
+position: absolute; left: 18%; width:20%;}
+.submit{width:initial; position:initial;}
+.radio-inline{
+
+	

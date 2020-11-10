@@ -1,0 +1,13 @@
+.column1, .column2{
+	width:45%;
+}
+.column3{
+	width: 100%;
+}
+@media screen and (max-width: 380px){
+	.column1, .column2, .column3{
+		float:none;
+		width:100%;
+	}
+}
+		

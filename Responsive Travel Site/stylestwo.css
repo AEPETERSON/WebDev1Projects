@@ -1,0 +1,47 @@
+body{color: black;
+	font-family: Times New Roman, Times, Seriff;
+	background-color: #ffff4d;
+	box-sizing: border-box;
+}
+h1{color: black;
+	font-family: Times New Roman, Times, Seriff;
+	background-color:#ff417a;
+	color: black;
+	text-align: center;
+}
+.container{width: 90%;
+	margin:auto;
+	max-width: 1200px;
+	background-color: #ffff4d;
+}
+header{background-color:#ff417a;
+	color: black;
+	padding: 30px 25px;
+	text-align: center;
+}
+
+footer{color: black;
+	background-color :#ff417a;
+	color: black;
+	text-align: center;
+}
+.column{
+	padding: 50px 10px 5px 10px;
+	line-height:1.5;
+}
+img{
+	width: 100%;
+	height: auto;
+	margin: 0 0 10px 0;
+}
+.column1, .column2, .column3{
+	float: left;
+	width: 30%;
+	margin-right: 5%;
+}
+
+.clearfix:after { content: ""; display: table; clear:both;
+
+}
+
+	
